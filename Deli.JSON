@@ -1,0 +1,37 @@
+{
+    "appetizers": [
+    {
+    "name": "texas cheese fries",
+    "ingredents": ["shredded cheese", "bacon", "jalapenos"],
+    "description": "taste spicy!"
+    }
+    ],
+    "cold sandwhiches": [
+    {
+    "name": "roast beef",
+    "ingredents": ["lettuce", "pepper jack cheese", "pickles"],
+    "description": "so good!"
+    }
+    ],
+    "hot sandwhiches": [
+    {
+    "name": "blt",
+    "ingredents": ["bacon", "lettuce", "tomatoes"],
+    "description": "blt for breakfest!"
+    }
+    ],
+    "desserts": [
+    {
+    "name": "icecream sunday",
+    "ingredents": ["vanilla", "banana", "cherry"],
+    "description": "the perfect sunday!"
+    }
+    ],
+    "drinks": [
+    {
+    "name": "coke",
+    "ingredents": ["light ice", "straw", "glass cup"],
+    "description": "coke is my favorite drink!"
+}
+]
+}
